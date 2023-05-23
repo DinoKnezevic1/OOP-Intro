@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPintroduction
 {
-    internal interface ITrainer
+    public interface ITrainer
     {
         public void PerformTrainingSession();
     }
